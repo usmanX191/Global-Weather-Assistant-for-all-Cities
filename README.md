@@ -68,7 +68,7 @@ The application uses the following NPM packages:
 ### 6. Usage
 Start the application: npm start
 
-Open your browser and navigate to http://localhost:<PORT> (default port is 3000).
+Open your browser and navigate to http://localhost:<PORT> (default port is 4000).
 
 Use the interface to fetch weather information by entering the required details.
 
