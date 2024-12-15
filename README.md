@@ -2,6 +2,8 @@
 
 Develop a functionality within the AI assistant to fetch and display real-time weather information for a specified city using OpenAI's Assistant Tools and the OpenWeather API. This feature will allow the assistant to provide weather updates as part of the conversation, helping users plan activities like outdoor photo shoots or other weather-dependent events.
 
+![Screenshot 2024-12-15 133638](https://github.com/user-attachments/assets/e90c4e2d-8392-41e2-bcef-11527ed27d1f)
+
 ![Global-Weather-Assistant-for-all-Cities](https://github.com/user-attachments/assets/3ada92f2-434c-4422-89b7-f4d4336e1d47)
 
 
