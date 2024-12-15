@@ -2,6 +2,14 @@
 
 Develop a functionality within the AI assistant to fetch and display real-time weather information for a specified city using OpenAI's Assistant Tools and the OpenWeather API. This feature will allow the assistant to provide weather updates as part of the conversation, helping users plan activities like outdoor photo shoots or other weather-dependent events.
 
+https://github.com/user-attachments/assets/bfdb471d-641e-4dab-b243-4f0b3c619657
+
+![Screenshot 2024-12-15 133638](https://github.com/user-attachments/assets/e90c4e2d-8392-41e2-bcef-11527ed27d1f)
+
+![Global-Weather-Assistant-for-all-Cities](https://github.com/user-attachments/assets/3ada92f2-434c-4422-89b7-f4d4336e1d47)
+
+
+
 ## Key Components:
 ### OpenWeather API Integration:
 Use the OpenWeather API to fetch current weather data for a given city. API response includes weather conditions, temperature, humidity, wind speed, etc.
@@ -62,7 +70,7 @@ The application uses the following NPM packages:
 ### 6. Usage
 Start the application: npm start
 
-Open your browser and navigate to http://localhost:<PORT> (default port is 3000).
+Open your browser and navigate to http://localhost:<PORT> (default port is 4000).
 
 Use the interface to fetch weather information by entering the required details.
 
